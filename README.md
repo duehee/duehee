@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요! 듀히입니다 :D </h1>
+<h1 align="center">안녕하세요! 듀히입니다. </h1>
 
 <p align="center">
   <a href="https://github.com/duehee">
@@ -48,29 +48,30 @@
 
 ## 🪪 Profile
 
-|  |  |  |
-| --- | --- | --- |
-| School | KOREATECH, Computer Science and Engineering | |
-| GPA | Major 4.19 / 4.5 | Overall 4.14 / 4.5 |
-| Certificate | 정보처리기사 | |
-| Language | 토익스피킹 IM2 | |
-| Military | 육군, 병장 만기전역 | 2021.11 ~ 2023.05 |
+<table>
+  <tr>
+    <td><b>School</b></td>
+    <td colspan="2">KOREATECH, Computer Science and Engineering</td>
+  </tr>
+  <tr>
+    <td><b>GPA</b></td>
+    <td>Major 4.19 / 4.5</td>
+    <td>Overall 4.14 / 4.5</td>
+  </tr>
+  <tr>
+    <td><b>Certificate</b></td>
+    <td colspan="2">정보처리기사</td>
+  </tr>
+  <tr>
+    <td><b>Language</b></td>
+    <td colspan="2">토익스피킹 IM2</td>
+  </tr>
+  <tr>
+    <td><b>Military</b></td>
+    <td>육군, 병장 만기전역</td>
+    <td>2021.11 ~ 2023.05</td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duehee&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duehee&layout=compact&theme=default&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duehee&theme=default&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=duehee&style=flat-square&color=blue" alt="profile views" />
-</p>
