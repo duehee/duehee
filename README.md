@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요! 👋 개발자 듀히입니다</h1>
+<h1 align="center">안녕하세요! 듀히입니다 :D </h1>
 
 <p align="center">
   <a href="https://github.com/duehee">
@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 <p>
