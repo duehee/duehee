@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td><b>Language</b></td>
-    <td colspan="2">토익스피킹 IM2</td>
+    <td colspan="2">OPIc IM2</td>
   </tr>
   <tr>
     <td><b>Military</b></td>
