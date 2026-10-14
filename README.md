@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요! 듀히입니다. </h1>
+<h1 align="center">안녕하세요! 듀히입니다.</h1>
 
 <p align="center">
   <a href="https://github.com/duehee">
@@ -32,17 +32,25 @@
 
 ## 💼 Career
 
-#### [에드워드 코리아](https://www.edwards.com/)
-* NPI 팀 Internal Program 개발 (MS Power Apps, Automate, BI / Python)
-* App Developer (2025.07 ~ 2025.12)
+#### [에드워드코리아](https://www.edwardsvacuum.com/)
+* NPI 팀 Internal Program 개발 (MS Power Apps · Power Automate · SharePoint / Python)
+* App Developer Intern (2025.07 ~ 2025.12)
 
 #### [BCSD Lab](https://bcsdlab.com/)
 
-한국기술교육대학교 교내 IT 동아리, DAU 1300+ MAU 3300+ 학교 커뮤니티 서비스 [KOIN](https://koreatech.in/) 개발 및 운영
+한국기술교육대학교 교내 IT 동아리. 월 활성 사용자 800~1,100명의 학교 커뮤니티 서비스 [KOIN](https://koreatech.in/) 개발 및 운영
 
-* BackEnd Developer (2024.02 ~ )
+* BackEnd Developer (2024.02 ~ 2025.09)
   * Campus Team (2025.03 ~ 2025.09)
   * User Team (2024.02 ~ 2025.02)
+
+---
+
+## 📁 Projects
+
+* [KOIN](https://github.com/BCSDLab/KOIN_API_V2) — 교내 종합 정보 플랫폼 백엔드 (Spring Boot)
+* [Melog](https://github.com/2025-Graduation-Design/Server) — 감정 분석 기반 음악 추천 감성일기, 졸업작품 우수상 (FastAPI · KoBERT)
+* [Psano](https://github.com/duehee/Psano) — 서울대 전시 연계 AI 인터랙티브 시스템, 22일 무중단 운영 (FastAPI · GPT-4o)
 
 ---
 
@@ -51,7 +59,7 @@
 <table>
   <tr>
     <td><b>School</b></td>
-    <td colspan="2">KOREATECH, Computer Science and Engineering</td>
+    <td colspan="2">KOREATECH, Computer Science and Engineering (2020.03 ~ 2026.08)</td>
   </tr>
   <tr>
     <td><b>GPA</b></td>
@@ -60,7 +68,11 @@
   </tr>
   <tr>
     <td><b>Certificate</b></td>
-    <td colspan="2">정보처리기사</td>
+    <td colspan="2">정보처리기사 · SQLD · ADsP</td>
+  </tr>
+  <tr>
+    <td><b>Award</b></td>
+    <td colspan="2">졸업작품 우수상 (2025) · 공학설계 아이디어 경진대회 우수작품상 (2024)</td>
   </tr>
   <tr>
     <td><b>Language</b></td>
@@ -72,6 +84,3 @@
     <td>2021.11 ~ 2023.05</td>
   </tr>
 </table>
-
----
-
